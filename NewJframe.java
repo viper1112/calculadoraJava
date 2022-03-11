@@ -2,7 +2,7 @@ public class NewJframe {
    
 /**
  *
- * @author Viper112
+ * @author Viper1112
  * @since 10/03/2002
  * @version 1.0
  */
